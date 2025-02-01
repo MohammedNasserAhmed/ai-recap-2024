@@ -1,7 +1,3 @@
-Here is the enhanced and structured README.md file with necessary emojis, badges, and tables to make it more creative and attractive:
-
----
-
 # AI Innovations Recap 2024: Shaping the Future of Arabic AI Content
 
 [![Awesome AI Recap 2024 Badge](https://img.shields.io/badge/AI%20Recap-2024-brightgreen.svg)](https://github.com/MohammedNasserAhmed/ai-recap-2024)
@@ -38,8 +34,7 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 |---------------|----------------------------------------------------|
 | API Only      | Accessible solely through programmatic interfaces. |
 | Open Weights  | Model weights publicly available for download and use. |
-| Hybrid        | Combinations of different deployment methods.      |
-| On-Premise    | Designed for local infrastructure deployment.      |
+
 
 **Modality:**
 | Type               | Description                                    |
@@ -59,13 +54,6 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 | New Feature/Upgrade| Enhancements and additions to existing systems.|
 | New Dataset/Benchmark | Creation of new resources for AI development and evaluation. |
 
-**Target Audience:**
-| Type               | Description                                    |
-|--------------------|------------------------------------------------|
-| Developer-Centric  | Tools and resources for AI developers.         |
-| Enterprise-Focused | Solutions for business and enterprise applications. |
-| Researcher-Oriented| Resources for academic research and advancement. |
-| End-User Application | Applications designed for direct consumer use. |
 
 [**Detailed Categorization System Breakdown**](#) <!-- Optional: Add a link to a more detailed explanation of your categories if you have a separate file or section within README -->
 
@@ -94,5 +82,3 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 **Let's collaboratively shape the future of AI and its impact on the Arabic-speaking world!**
 
 ---
-
-Feel free to customize further as needed. Once you are satisfied, you can commit and push the updated README.md file to your repository.
