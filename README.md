@@ -55,8 +55,6 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 | New Dataset/Benchmark | Creation of new resources for AI development and evaluation. |
 
 
-[**Detailed Categorization System Breakdown**](#) <!-- Optional: Add a link to a more detailed explanation of your categories if you have a separate file or section within README -->
-
 ## 🚀 Explore the Recap
 
 [**Data Files/Spreadsheet (e.g., CSV, JSON)**](#) <!-- If you are making the raw data available -->
@@ -75,7 +73,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 ## ✍️ Author & Contact
 
 **Mohammed Nasser Ahmed**  
-[Email](mailto:your-email@example.com) | [Twitter](https://twitter.com/your-handle) | [LinkedIn](https://linkedin.com/in/your-profile)
+[Email](mailto:mohnasgbr@ainarabic.in) | [Twitter]() | [LinkedIn](https://linkedin.com/in/m-n-g)
 
 ---
 
