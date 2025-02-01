@@ -1,4 +1,4 @@
-# AI Innovations Recap 2024: Shaping the Future of Arabic AI Content
+# AI Innovations Recap 2024
 
 [![Awesome AI Recap 2024 Badge](https://img.shields.io/badge/AI%20Recap-2024-brightgreen.svg)](https://github.com/MohammedNasserAhmed/ai-recap-2024)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
