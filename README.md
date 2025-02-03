@@ -18,7 +18,7 @@ This repository serves as a comprehensive recap of the most significant advancem
 
 ## ✨ Key Highlights of this Recap
 
-* 🚀 **Extensive Collection:** Curated details on **over 190+** AI models, updates, datasets, features, and tools released throughout 2024.
+* 🚀 **Extensive Collection:** Curated details on **over 180+** AI models, updates, datasets, features, and tools released throughout 2024.
 * 📂 **Categorized for Clarity:** Innovations are meticulously categorized using a multi-dimensional system, offering structured insights into the evolving AI landscape.
 * 🌍 **Arabic Content Focus:** This recap is built with the Arabic AI ecosystem in mind, aiming to understand how these global advancements can be leveraged to enhance Arabic digital content creation, accessibility, and quality.
 * 📊 **Data-Driven Analysis:** Includes quantitative analysis and visualizations (coming soon!) derived from the categorized data, providing a clear overview of trends and key players.
