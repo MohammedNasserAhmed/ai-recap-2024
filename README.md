@@ -69,9 +69,9 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 ## 🚀 Explore the Recap
 
 <p align="center">
-  <img src="assets/arabic-ai-recap-2024 (1).png" alt="Charts" width="30%" style="display:inline-block; margin-right: 10px;"/>
-  <img src="assets//arabic-ai-recap-2024 (2).png" alt="Charts" width="30%" style="display:inline-block; margin-right: 10px;"/>
-  <img src="assets//arabic-ai-recap-2024.png" alt="Charts" width="30%" style="display:inline-block;"/>
+  <img src="assets/arabic-ai-recap-2024 (1).png" alt="Charts" width="30%" height="200" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets/arabic-ai-recap-2024 (2).png" alt="Charts" width="30%" height="200" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets/arabic-ai-recap-2024.png" alt="Charts" width="30%" height="200" style="display:inline-block;"/>
 </p>
 
 This repository is intended to be a living document, and we plan to update it regularly, add more analysis, and include community contributions.
