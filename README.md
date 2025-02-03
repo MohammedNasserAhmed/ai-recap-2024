@@ -8,7 +8,7 @@
 
 This repository serves as a comprehensive recap of the most significant advancements in Artificial Intelligence during 2024. Our aim is to **collect, highlight, and analyze** the groundbreaking innovations that have shaped the AI landscape, with a special focus on enhancing Arabic content creation.
 ---
-<img src="https://github.com/MohammedNasserAhmed/ai-recap-2024/assets/1.png" alt="Cover" width="300"/>  
+<img src="assets/1.png" alt="Cover" width="300"/>  
 
 ---
 ## ✨ Key Highlights of this Recap
