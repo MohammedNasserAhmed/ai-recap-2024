@@ -36,6 +36,13 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 | Open Weights  | Model weights publicly available for download and use. |
 
 
+**End-User Support:**
+| Type          | Description                                        |
+|---------------|----------------------------------------------------|
+| Yes     | It supports END-USER APPLICATION. |
+| No  | It has no END-USER APPLICATION. |
+
+
 **Modality:**
 | Type               | Description                                    |
 |--------------------|------------------------------------------------|
