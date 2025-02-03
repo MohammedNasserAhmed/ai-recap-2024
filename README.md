@@ -1,4 +1,4 @@
-# AI Innovations Recap 2024
+# AI Recap 2024
 
 [![Awesome AI Recap 2024 Badge](https://img.shields.io/badge/AI%20Recap-2024-brightgreen.svg)](https://github.com/MohammedNasserAhmed/ai-recap-2024)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -64,7 +64,55 @@ This repository is intended to be a living document, and we plan to update it re
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please feel free to report errors, suggest missed innovations, or contribute new data and analysis. For more details, refer to our [contributing guide](./CONTRIBUTING.md).
+### Contribution Guide for AI Recap 2024
+
+Thank you for your interest in contributing to the AI Recap 2024 project. This repository serves as a comprehensive recap of the most significant advancements in Artificial Intelligence during 2024. We welcome contributions from the community to enhance the quality and breadth of this project. Below are the guidelines for contributing notes, modifications, and additions to the PDF report.
+
+#### How to Contribute
+
+1. **Fork the Repository**: Start by forking the repository to your GitHub account. This creates a copy of the repository where you can make changes.
+
+2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/your-username/ai-recap-2024.git
+   ```
+
+3. **Create a New Branch**: Create a new branch for your contribution. It's good practice to name your branch based on the type of contribution (e.g., `add-notes`, `modify-section`, `update-data`).
+   ```bash
+   git checkout -b add-notes
+   ```
+
+4. **Create a Contribution Document**: Create a Word document or a text file with your proposed notes, modifications, or additions. Ensure that your changes are well-documented and relevant to the project's goals. Do not modify the original PDF report directly.
+
+5. **Commit Your Changes**: After creating your contribution document, commit it with a descriptive message.
+   ```bash
+   git add .
+   git commit -m "Added notes on the latest AI models"
+   ```
+
+6. **Push Your Changes**: Push the changes to your forked repository on GitHub.
+   ```bash
+   git push origin add-notes
+   ```
+
+7. **Submit a Pull Request**: Go to the original repository and submit a pull request. Provide a clear and detailed description of your changes and attach your contribution document.
+
+#### Contribution Guidelines
+
+- **Relevance**: Ensure that your contributions are relevant to the AI advancements covered in 2024. Contributions should add value to the existing report.
+- **Clarity**: Write clear and concise notes. Avoid jargon and explain technical terms where necessary.
+- **Formatting**: Maintain consistent formatting with the existing content. Use appropriate headings, bullet points, and numbering.
+- **Documentation**: Include references to the sources of information where applicable. This adds credibility to your contributions.
+- **Review Process**: Be patient while your contribution is reviewed by the maintainers. Address any feedback or requested changes promptly.
+
+#### Additional Information
+
+- **Contact**: For any questions or clarifications, you can reach out to the project maintainer, [Mohammed Nasser Ahmed](mailto:mohnasgbr@ainarabic.in).
+- **License**: This project is licensed under the Apache License 2.0. By contributing, you agree that your contributions will be licensed under the same license.
+
+Thank you for helping us create a valuable resource for the AI community!
+
+---
 
 ## 📄 License
 
