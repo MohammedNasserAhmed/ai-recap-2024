@@ -64,9 +64,7 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 
 ## 🚀 Explore the Recap
 
-[**Data Files/Spreadsheet (e.g., CSV, JSON)**](#) <!-- If you are making the raw data available -->
-[**Visualizations/Charts**](#) <!-- If you are including charts -->
-
+![]()
 This repository is intended to be a living document, and we plan to update it regularly, add more analysis, and include community contributions.
 
 ## 🤝 Contributing
