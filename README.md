@@ -7,6 +7,7 @@
 **Curating, Highlighting, and Analyzing the AI Landscape of 2024, with a Focus on Empowering Arabic Content Creation.**
 
 This repository serves as a comprehensive recap of the most significant advancements in Artificial Intelligence during 2024. Our aim is to **collect, highlight, and analyze** the groundbreaking innovations that have shaped the AI landscape, with a special focus on enhancing Arabic content creation.
+
 ---
 <img src="assets/1.png" alt="Cover" width="300"/>  
 
@@ -67,7 +68,12 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 
 ## 🚀 Explore the Recap
 
-![](assets/1.png)
+<p align="center">
+  <img src="assets/arabic-ai-recap-2024 (1).png" alt="Charts" width="30%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets//arabic-ai-recap-2024 (2).png" alt="Charts" width="30%" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets//arabic-ai-recap-2024.png" alt="Charts" width="30%" style="display:inline-block;"/>
+</p>
+
 This repository is intended to be a living document, and we plan to update it regularly, add more analysis, and include community contributions.
 
 ## 🤝 Contributing
