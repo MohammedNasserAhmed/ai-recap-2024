@@ -107,7 +107,7 @@ Thank you for your interest in contributing to the AI Recap 2024 project. This r
 
 #### Additional Information
 
-- **Contact**: For any questions or clarifications, you can reach out to the project maintainer, [Mohammed Nasser Ahmed](mailto:mohnasgbr@ainarabic.in).
+- **Contact**: For any questions or clarifications, you can reach out to the project maintainer, [M. N. Gaber](mohnasgbr@ainarabic.in).
 - **License**: This project is licensed under the Apache License 2.0. By contributing, you agree that your contributions will be licensed under the same license.
 
 Thank you for helping us create a valuable resource for the AI community!
