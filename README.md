@@ -13,6 +13,7 @@ This repository serves as a comprehensive recap of the most significant advancem
   <img src="assets/1.png" alt="Cover" width="400"/>  
 </div>
 ---
+
 ## ✨ Key Highlights of this Recap
 
 * 🚀 **Extensive Collection:** Curated details on **over 190+** AI models, updates, datasets, features, and tools released throughout 2024.
