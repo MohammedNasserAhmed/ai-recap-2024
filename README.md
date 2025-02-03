@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
 
-**Curating, Highlighting, and Analyzing the AI Landscape of 2024, with a Focus on Empowering Arabic Content Creation.**
+**Curating, Highlighting, and Analyzing the AI Landscape of 2024**
 
 This repository serves as a comprehensive recap of the most significant advancements in Artificial Intelligence during 2024. Our aim is to **collect, highlight, and analyze** the groundbreaking innovations that have shaped the AI landscape, with a special focus on enhancing Arabic content creation.
 
