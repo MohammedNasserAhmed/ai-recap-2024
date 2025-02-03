@@ -9,8 +9,9 @@
 This repository serves as a comprehensive recap of the most significant advancements in Artificial Intelligence during 2024. Our aim is to **collect, highlight, and analyze** the groundbreaking innovations that have shaped the AI landscape, with a special focus on enhancing Arabic content creation.
 
 ---
-<img src="assets/1.png" alt="Cover" width="300"/>  
-
+<div align="center">
+  <img src="assets/1.png" alt="Cover" width="400"/>  
+</div>
 ---
 ## ✨ Key Highlights of this Recap
 
@@ -66,12 +67,18 @@ To provide a structured and insightful overview of the vast AI landscape, we hav
 | New Dataset/Benchmark | Creation of new resources for AI development and evaluation. |
 
 
+<div align="center">
+  <img src="assets/10.png" alt="Cover" width="400"/>  
+</div> 
+
+--- 
+
 ## 🚀 Explore the Recap
 
 <p align="center">
-  <img src="assets/arabic-ai-recap-2024 (1).png" alt="Charts" width="30%" height="300" style="display:inline-block; margin-right: 10px;"/>
-  <img src="assets/arabic-ai-recap-2024 (2).png" alt="Charts" width="30%" height="300" style="display:inline-block; margin-right: 10px;"/>
-  <img src="assets/arabic-ai-recap-2024.png" alt="Charts" width="30%" height="300" style="display:inline-block;"/>
+  <img src="assets/arabic-ai-recap-2024 (1).png" alt="Charts" width="30%" height="250" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets/arabic-ai-recap-2024 (2).png" alt="Charts" width="30%" height="250" style="display:inline-block; margin-right: 10px;"/>
+  <img src="assets/arabic-ai-recap-2024.png" alt="Charts" width="30%" height="250" style="display:inline-block;"/>
 </p>
 
 This repository is intended to be a living document, and we plan to update it regularly, add more analysis, and include community contributions.
@@ -136,6 +143,8 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 
 **Mohammed Nasser Gabber**  
 [Email](mailto:mohnasgbr@ainarabic.in) | [Twitter]() | [LinkedIn](https://linkedin.com/in/m-n-g)
+
+<img src="assets/21.png" alt="Cover" width="400"/>  
 
 ---
 
